@@ -1,8 +1,12 @@
+**roughly 2000 words!**
+
 0. What's an emoji?
 
 - should we start with the stuff on #emojiethnicityupdate? I feel like that's a great hook for their blog format
 
 1.  What is unicode, what is it trying to do, what is it used for
+
+the distinction between syntax and semantics in emoji encoding, and how it relates to the diversity controversy.  Also, how practices respond to standards.
 
 - Japanese core set
 - how font maps a code point to a glyph

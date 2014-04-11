@@ -19,7 +19,7 @@ the distinction between syntax and semantics in emoji encoding, and how it relat
 - platforms
 - systems
 
-3. how are emoji language, objects, things > what do emoji tell us about how people have always communicated with things and systems
+3. how are emoji language, objects, things > what do emoji tell us about how people have always communicated with things and systems.  Connection between language and objects, material origins of writing.
 
 - examples of ancient token systems, characters that Unicode can't about (Indonesian example)
 - transition into new ways that people communicate through mobile devices -- "fingered speech," such a great phrase
